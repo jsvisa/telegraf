@@ -24,6 +24,7 @@ to "stdout".
 - [#1228](https://github.com/influxdata/telegraf/pull/1228): Fix service plugin host tag overwrite.
 - [#1198](https://github.com/influxdata/telegraf/pull/1198): http_response: override request Host header properly
 - [#1230](https://github.com/influxdata/telegraf/issues/1230): Fix Telegraf process hangup due to a single plugin hanging.
+- [#1243](https://github.com/influxdata/telegraf/pull/1243): Logfile not created on systemd.
 
 ## v0.13 [2016-05-11]
 
